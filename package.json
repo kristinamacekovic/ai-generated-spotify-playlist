@@ -1,0 +1,16 @@
+{
+  "name": "ai-generated-playlist",
+  "version": "1.0.0",
+  "description": "Small Javascript application for generating a playlist in Spotify based on output from AI model based on the users prompt",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kristina Macekovic",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^3.3.0"
+  },
+  "type": "module"
+}
